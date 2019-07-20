@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="728e5360-9c54-4a75-ae65-dcabaa9b3703" name="Default Changelist" comment="minor updates">
-      <change afterPath="$PROJECT_DIR$/docs/1___уведомление_членов,_повестка.pdf" afterDir="false" />
+    <list default="true" id="728e5360-9c54-4a75-ae65-dcabaa9b3703" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -31,7 +30,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="951" />
-          <entry key="PLAIN_TEXT" value="92" />
+          <entry key="PLAIN_TEXT" value="134" />
         </counts>
       </usages-collector>
     </session>
@@ -41,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="119" column="94" selection-start-line="119" selection-start-column="94" selection-end-line="119" selection-end-column="94" />
+            <state relative-caret-position="181">
+              <caret line="85" column="26" lean-forward="true" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -143,7 +142,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563621730008" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563621938382" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -170,7 +169,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563477311231</updated>
-      <workItem from="1563477313068" duration="9557000" />
+      <workItem from="1563477313068" duration="9644000" />
     </task>
     <task id="LOCAL-00001" summary="metadata">
       <created>1563491116659</created>
@@ -207,11 +206,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563621002889</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Document scan added. Code reformatting.">
+      <created>1563621775440</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1563621775440</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9557000" />
+    <option name="totallyTimeSpent" value="9644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="972" extended-state="6" />
@@ -257,7 +263,8 @@
     <MESSAGE value="minor updates" />
     <MESSAGE value="gitignore update" />
     <MESSAGE value="actual information text" />
-    <option name="LAST_COMMIT_MESSAGE" value="actual information text" />
+    <MESSAGE value="Document scan added. Code reformatting." />
+    <option name="LAST_COMMIT_MESSAGE" value="Document scan added. Code reformatting." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/favicons/favicon-16x16.png">
@@ -294,8 +301,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="119" column="94" selection-start-line="119" selection-start-column="94" selection-end-line="119" selection-end-column="94" />
+        <state relative-caret-position="181">
+          <caret line="85" column="26" lean-forward="true" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
